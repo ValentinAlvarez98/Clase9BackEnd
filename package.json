@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ValentinAlvarez98/Clase9BackEnd/issues"
   },
-  "homepage": "https://github.com/ValentinAlvarez98/Clase9BackEnd#readme"
+  "homepage": "https://github.com/ValentinAlvarez98/Clase9BackEnd#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.7",
+    "routes": "^2.1.0"
+  }
 }
